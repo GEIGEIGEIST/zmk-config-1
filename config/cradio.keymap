@@ -104,7 +104,7 @@ label= "SYM"                               ;
 
     &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET   &kp AMPS    &kp RA(U)   &kp SQT     &kp DQT       
     &kp RA(A)   &trans      &kp RA(S)   &trans      &trans          &kp C_MUTE  &kp LS(RA(4)) &kp RA(5) &kp RA(4)   &kp RA(O) 
-    &trans      &bt BT_PRV  &trans      &trans      &trans          &trans      &kp F1      &kp F2      &kp F3      &kp F10     
+&kp RALT(F18) &kp RALT(F19) &trans      &trans      &trans          &trans      &kp F1      &kp F2      &kp F3      &kp F10     
                                         &trans      &trans          &trans      &trans
                         >;
                 };
